@@ -1,0 +1,66 @@
+# Superfile Theme - Try
+# Theme created by: https://github.com/TryCaze
+# Inspired by Catppuccin
+
+# If you want to make sidebar border display, set it same as sidebar background color
+
+# Code syntax highlight theme
+code_syntax_highlight = "try"
+
+# ========= Border =========
+file_panel_border = "#6E45E2"
+sidebar_border = "#1e1e2e"
+footer_border = "#6E45E2"
+
+# ========= Border Active =========
+file_panel_border_active = "#A370F7"
+sidebar_border_active = "#73A0FF"
+footer_border_active = "#A370F7"
+modal_border_active = "#868686"
+
+# ========= Background (bg) =========
+full_screen_bg = "#00000000" # Fully transparent background
+file_panel_bg = "#00000000"
+sidebar_bg = "#00000000"
+footer_bg = "#00000000"
+modal_bg = "#00000000"
+
+# ========= Foreground (fg) =========
+full_screen_fg = "#D0B3FF"
+file_panel_fg = "#D0B3FF"
+sidebar_fg = "#D0B3FF"
+footer_fg = "#D0B3FF"
+modal_fg = "#D0B3FF"
+
+# ========= Special Color =========
+cursor = "#9E79D6"
+correct = "#A370F7"
+error = "#F38BA8"
+hint = "#73A0FF"
+cancel = "#EBA0AC"
+# Gradient color can only have two colors!
+gradient_color = ["#73A0FF", "#A370F7"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#A370F7"
+file_panel_top_path = "#73A0FF"
+file_panel_item_selected_fg = "#D0B3FF"
+file_panel_item_selected_bg = "#00000000"
+
+# ========= Sidebar Special Items =========
+sidebar_title = "#73A0FF"
+sidebar_item_selected_fg = "#D0B3FF"
+sidebar_item_selected_bg = "#00000000"
+sidebar_divider = "#868686"
+
+# ========= Modal Special Items =========
+modal_cancel_fg = "#383838"
+modal_cancel_bg = "#EBA0AC"
+
+modal_confirm_fg = "#383838"
+modal_confirm_bg = "#73D6FF"
+
+# ========= Help Menu =========
+help_menu_hotkey = "#73D6FF"
+help_menu_title = "#EBA0AC"
+
